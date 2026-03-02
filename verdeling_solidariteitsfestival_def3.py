@@ -46,9 +46,9 @@ import pandas as pd
 # =========================
 # CONFIG
 # =========================
-INPUT_XLSX = r"C:\Users\vande\OneDrive - Stella Matutinacollege\WESP\python\Solidariteitsfestival_2026_opgekuist.xlsx"
+INPUT_XLSX = r"C:\Users\willem.vandenbussche\OneDrive - Stella Matutinacollege\WESP\python\Solidariteitsfestival_2026_opgekuist.xlsx"
 # OUTPUT naar dezelfde map als het input bestand
-OUTPUT_DIR = r"C:\Users\vande\OneDrive - Stella Matutinacollege\WESP\python"
+OUTPUT_DIR = r"C:\Users\willem.vandenbussche\OneDrive - Stella Matutinacollege\WESP\python"
 OUTPUT_XLSX = os.path.join(OUTPUT_DIR, "Solidariteitsfestival_2025_planning_output.xlsx")
 
 SEED = 20250129
